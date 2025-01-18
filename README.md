@@ -1,2 +1,1 @@
 # amp-alert
-# amp-alert
